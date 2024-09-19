@@ -83,8 +83,8 @@ cd frontend -->
 
 
 ## Screenshots
-``Dashboard
+## Dashboard
 ![dashboard image paytm](https://github.com/user-attachments/assets/6e105152-dc6b-4377-aba3-48a3af8642ef)
 
-``payment gateway
+## payment gateway
 ![payment_screen](https://github.com/user-attachments/assets/11a2b862-639d-4a21-a251-b13eb2cd02c9)
